@@ -7,3 +7,5 @@ checkout master
 
 
 --no-ff
+
+clone 
