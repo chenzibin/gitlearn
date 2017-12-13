@@ -11,5 +11,5 @@ checkout master
 
 main update
 
-clone 
+clone update
 
