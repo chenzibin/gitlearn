@@ -9,7 +9,7 @@ checkout master
 --no-ff
 
 
-main
+main update
 
 clone 
 
